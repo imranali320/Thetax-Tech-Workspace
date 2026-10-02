@@ -6,3 +6,5 @@ backend/.venv
 backend/*.db
 backend/storage
 __pycache__
+
+.vercel
